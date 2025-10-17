@@ -1,0 +1,31 @@
+header{
+
+	background-color: #fff;
+	box-shadow: 0 4px 68px rgba(#003E65, .04);
+
+	& .row{
+		margin: 0;
+
+		& .header-wrapper{
+
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			padding: .5em 0;
+
+			& .logo{
+				display: flex;
+				gap: 20px;
+				align-items: center;
+			}
+
+			& .phone{
+				color: $text;
+				
+				& i{
+					font-size: 26px;
+				}
+			}
+		}
+	}
+}
