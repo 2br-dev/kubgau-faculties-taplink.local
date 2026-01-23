@@ -73,6 +73,20 @@
 					</div>
 					
 					
+					
+						
+						<div class="col xl4 l6 m6">
+							<a href="https://courses.kubsau.ru/kursy/obshcherazvivayushchie-programmy/gastrolab-shkola-pishchevykh-tekhnologiy/" class="bttn-big" id="gl" target="_blank" rel="nofollow">
+								<span class="prefix">
+									<img src="../taplink/img/logo/gastrolab.svg" alt="Гастролаб">
+								</span>
+								<span class="content">
+									<span class="title">Школа ГастроЛаб</span>
+								</span>
+							</a>
+						</div>
+						
+					
 				</div>
 			</div>
 		</section>
