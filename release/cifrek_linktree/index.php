@@ -16,8 +16,11 @@
 						<img src="../taplink/img/logo/kubsau.svg" alt="Кубанский государственный аграрный университет">
 						<img src="../taplink/img/logo/kubsau-descriptor.svg" alt="Кубанский государственный аграрный университет" class="hide-m-down">
 					</a>
-					<a href="tel:+78612215942" class="phone">
-						<span class="hide-m-down">+7 (861) 221-59-42</span>
+					<a href="tel:+79892101188" class="phone">
+						<span class="hide-m-down">
+							
+							+7 (989) 210-11-88
+						</span>
 						<span class="hide-m-up"><i class="bx bxs-phone-call bx-flip-horizontal"></i></span>
 					</a>
 				</div>
@@ -51,7 +54,19 @@
 									<span class="title">
 										Бакалавриат
 									</span>
-									<span class="subtitle">Классическая программа</span>
+									<span class="subtitle">Цифровая экономика</span>
+								</span>
+							</a>
+						</div>
+					
+						<div class="col xl4 l6 m6">
+							<a href="https://cifrek.kubsau.ru/tourism" class="bttn-big" id="kubsau" target="_blank" rel="nofollow">
+								
+								<span class="content">
+									<span class="title">
+										Бакалавриат
+									</span>
+									<span class="subtitle">Умный туризм и развитие территории (совместно с МГИМО)</span>
 								</span>
 							</a>
 						</div>
@@ -63,7 +78,7 @@
 									<span class="title">
 										Бакалавриат
 									</span>
-									<span class="subtitle">Совместно с МГИМО</span>
+									<span class="subtitle">Цифровая экономика и мировые аграрные рынки (совместно с МГИМО)</span>
 								</span>
 							</a>
 						</div>
@@ -116,6 +131,42 @@
 							</a>
 						</div>
 					
+						<div class="col xl4 l6 m6">
+							<a href="https://t.me/cifreklife" class="bttn-big" id="kubsau" target="_blank" rel="nofollow">
+								
+								<span class="content">
+									<span class="title">
+										ЦифрЭк Лайф
+									</span>
+									<span class="subtitle">Телеграм-канал</span>
+								</span>
+							</a>
+						</div>
+					
+						<div class="col xl4 l6 m6">
+							<a href="mailto:cifrek@mail.ru" class="bttn-big" id="kubsau" target="_blank" rel="nofollow">
+								
+								<span class="content">
+									<span class="title">
+										Написать на почту
+									</span>
+									<span class="subtitle">cifrek@mail.ru</span>
+								</span>
+							</a>
+						</div>
+					
+						<div class="col xl4 l6 m6">
+							<a href="https://t.me/cifrek_bot" class="bttn-big" id="kubsau" target="_blank" rel="nofollow">
+								
+								<span class="content">
+									<span class="title">
+										Чат-бот в Телеграм
+									</span>
+									<span class="subtitle"></span>
+								</span>
+							</a>
+						</div>
+					
 					
 					<div class="col xl4 l6 m6">
 						<a href="https://vk.com/public211042602" class="bttn-big" id="vk" target="_blank" rel="nofollow">
@@ -130,7 +181,7 @@
 					
 					
 					<div class="col xl4 l6 m6">
-						<a href="https://t.me/cifrekkubsauк" class="bttn-big" id="tg" target="_blank" rel="nofollow">
+						<a href="https://t.me/cifrekkubsau" class="bttn-big" id="tg" target="_blank" rel="nofollow">
 							<span class="prefix">
 								<img src="../taplink/img/logo/telegram.svg" alt="Телеграм">
 							</span>
@@ -139,6 +190,7 @@
 							</span>
 						</a>
 					</div>
+					
 					
 				</div>
 			</div>
