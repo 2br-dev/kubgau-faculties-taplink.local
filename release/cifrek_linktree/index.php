@@ -155,18 +155,6 @@
 							</a>
 						</div>
 					
-						<div class="col xl4 l6 m6">
-							<a href="https://t.me/cifrek_bot" class="bttn-big" id="kubsau" target="_blank" rel="nofollow">
-								
-								<span class="content">
-									<span class="title">
-										Чат-бот в Телеграм
-									</span>
-									<span class="subtitle"></span>
-								</span>
-							</a>
-						</div>
-					
 					
 					<div class="col xl4 l6 m6">
 						<a href="https://vk.com/public211042602" class="bttn-big" id="vk" target="_blank" rel="nofollow">
